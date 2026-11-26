@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThoughtWidgetApp</string>
+    <string name="thought_widget_description">Your personal thought and inspiration widget</string>
+</resources>
